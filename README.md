@@ -5,7 +5,9 @@ Repository ini berisi desain Learning Board untuk STM32 WeAct Blackpill V2. Lear
 Proyek ini mencakup file desain menggunakan KiCad 7.0, yang meliputi:
 
 .kicad_pro : File proyek utama KiCad.
+
 .kicad_sch : Schematic desain rangkaian.
+
 .kicad_pcb : Layout PCB.
 
 ## Requirement
